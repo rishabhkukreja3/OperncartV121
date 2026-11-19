@@ -1,0 +1,17 @@
+1) enter the file location in command prompt then follow the underlying commands
+
+2) Run docker-compose.yaml
+
+docker-compose up
+
+3) To check hub & nodes running state:
+
+http://localhost:4444/grid/console
+
+4) To increase number of nodes:
+
+docker-compose scale chrome=3
+
+5) To stop the grid and cleanup the created containers, run
+
+docker-compose down

@@ -1,0 +1,163 @@
+14:58:25.342 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:58:25.514 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:58:25.516 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:58:25.518 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:58:25.614 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:58:25.616 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:58:25.623 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:58:25.688 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:58:25.694 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:58:25.697 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:58:25.777 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:58:25.779 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:58:25.780 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:58:25.848 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:58:25.853 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:58:25.860 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:58:25.980 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:58:25.982 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:58:25.984 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:58:26.031 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:58:26.033 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:58:26.035 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:58:26.082 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:58:26.084 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:58:26.087 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:58:26.126 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:58:26.127 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:58:26.129 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:58:26.199 [main] INFO  testCases.TC03_LoginDDT - *** starting TC_03_LoginDDT ***
+14:58:39.607 [main] INFO  testCases.TC03_LoginDDT - *** Finished TC_03_LoginDDT ***
+17:40:57.820 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Administrator\.eclipse\Java Work\OpencartV121\master.xml"
+17:40:58.189 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Administrator\.eclipse\Java Work\OpencartV121\master.xml
+
+17:41:03.779 [main] INFO  testCases.TC01_AccountRegisterationTest - **** Starting TC01_AccountRegisterationTest ****
+17:41:03.953 [main] INFO  testCases.TC01_AccountRegisterationTest - Clicked on MyAccount Link..
+17:41:04.760 [main] INFO  testCases.TC01_AccountRegisterationTest - Clicked on Register Link..
+17:41:04.773 [main] INFO  testCases.TC01_AccountRegisterationTest - Providing customer details.....
+17:41:07.685 [main] INFO  testCases.TC01_AccountRegisterationTest - Validating expected message..
+17:41:07.714 [main] INFO  testCases.TC01_AccountRegisterationTest - **** Finished TC01_AccountRegisterationTest ****
+17:41:11.351 [main] INFO  testCases.TC02_LoginTest - *** Starting TC_002_LoginTest ***
+17:41:13.771 [main] INFO  testCases.TC02_LoginTest - *** Finished TC_02_LoginTest ***
+17:42:16.201 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Administrator\.eclipse\Java Work\OpencartV121\master.xml"
+17:42:16.483 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Administrator\.eclipse\Java Work\OpencartV121\master.xml
+
+17:42:26.565 [main] INFO  testCases.TC01_AccountRegisterationTest - **** Starting TC01_AccountRegisterationTest ****
+17:42:26.735 [main] INFO  testCases.TC01_AccountRegisterationTest - Clicked on MyAccount Link..
+17:42:28.389 [main] INFO  testCases.TC01_AccountRegisterationTest - Clicked on Register Link..
+17:42:28.394 [main] INFO  testCases.TC01_AccountRegisterationTest - Providing customer details.....
+17:42:31.290 [main] INFO  testCases.TC01_AccountRegisterationTest - Validating expected message..
+17:42:31.327 [main] INFO  testCases.TC01_AccountRegisterationTest - **** Finished TC01_AccountRegisterationTest ****
+17:42:36.162 [main] INFO  testCases.TC02_LoginTest - *** Starting TC_002_LoginTest ***
+17:42:39.054 [main] INFO  testCases.TC02_LoginTest - *** Finished TC_02_LoginTest ***
+17:43:56.319 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Administrator\.eclipse\Java Work\OpencartV121\CrossBrowserTesting.xml"
+17:43:56.675 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Administrator\.eclipse\Java Work\OpencartV121\CrossBrowserTesting.xml
+
+17:44:03.830 [TestNG-tests-1] INFO  testCases.TC01_AccountRegisterationTest - **** Starting TC01_AccountRegisterationTest ****
+17:44:03.830 [TestNG-tests-2] INFO  testCases.TC01_AccountRegisterationTest - **** Starting TC01_AccountRegisterationTest ****
+17:44:04.295 [TestNG-tests-2] INFO  testCases.TC01_AccountRegisterationTest - Clicked on MyAccount Link..
+17:44:04.492 [TestNG-tests-1] INFO  testCases.TC01_AccountRegisterationTest - Clicked on MyAccount Link..
+13:31:49.344 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Administrator\.eclipse\Java Work\OpencartV121\grid-docker.xml"
+13:31:50.223 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Administrator\.eclipse\Java Work\OpencartV121\grid-docker.xml
+
+13:32:03.372 [main] INFO  testCases.TC01_AccountRegisterationTest - **** Starting TC01_AccountRegisterationTest ****
+13:32:03.779 [main] INFO  testCases.TC01_AccountRegisterationTest - Clicked on MyAccount Link..
+13:32:04.914 [main] INFO  testCases.TC01_AccountRegisterationTest - Clicked on Register Link..
+13:32:04.942 [main] INFO  testCases.TC01_AccountRegisterationTest - Providing customer details.....
+13:32:09.452 [main] INFO  testCases.TC01_AccountRegisterationTest - Validating expected message..
+13:32:09.559 [main] INFO  testCases.TC01_AccountRegisterationTest - **** Finished TC01_AccountRegisterationTest ****
+13:32:13.578 [main] INFO  testCases.TC02_LoginTest - *** Starting TC_002_LoginTest ***
+13:32:17.594 [main] INFO  testCases.TC02_LoginTest - *** Finished TC_02_LoginTest ***
+13:33:10.062 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Administrator\.eclipse\Java Work\OpencartV121\grid-docker.xml"
+13:33:10.944 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Administrator\.eclipse\Java Work\OpencartV121\grid-docker.xml
+
+13:33:24.658 [main] INFO  testCases.TC01_AccountRegisterationTest - **** Starting TC01_AccountRegisterationTest ****
+13:33:24.936 [main] INFO  testCases.TC01_AccountRegisterationTest - Clicked on MyAccount Link..
+13:33:26.115 [main] INFO  testCases.TC01_AccountRegisterationTest - Clicked on Register Link..
+13:33:26.118 [main] INFO  testCases.TC01_AccountRegisterationTest - Providing customer details.....
+13:33:29.426 [main] INFO  testCases.TC01_AccountRegisterationTest - Validating expected message..
+13:33:29.574 [main] INFO  testCases.TC01_AccountRegisterationTest - **** Finished TC01_AccountRegisterationTest ****
+13:33:40.981 [main] INFO  testCases.TC02_LoginTest - *** Starting TC_002_LoginTest ***
+13:33:44.560 [main] INFO  testCases.TC02_LoginTest - *** Finished TC_02_LoginTest ***
+13:34:34.739 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Administrator\.eclipse\Java Work\OpencartV121\grid-docker.xml"
+13:34:35.406 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Administrator\.eclipse\Java Work\OpencartV121\grid-docker.xml
+
+13:34:42.754 [main] INFO  testCases.TC01_AccountRegisterationTest - **** Starting TC01_AccountRegisterationTest ****
+13:34:43.063 [main] INFO  testCases.TC01_AccountRegisterationTest - Clicked on MyAccount Link..
+13:34:44.107 [main] INFO  testCases.TC01_AccountRegisterationTest - Clicked on Register Link..
+13:34:44.114 [main] INFO  testCases.TC01_AccountRegisterationTest - Providing customer details.....
+13:34:48.844 [main] INFO  testCases.TC01_AccountRegisterationTest - Validating expected message..
+13:34:48.973 [main] INFO  testCases.TC01_AccountRegisterationTest - **** Finished TC01_AccountRegisterationTest ****
+13:34:52.997 [main] INFO  testCases.TC02_LoginTest - *** Starting TC_002_LoginTest ***
+13:34:57.075 [main] INFO  testCases.TC02_LoginTest - *** Finished TC_02_LoginTest ***
+13:35:10.572 [main] INFO  testCases.TC01_AccountRegisterationTest - **** Starting TC01_AccountRegisterationTest ****
+13:35:11.224 [main] INFO  testCases.TC01_AccountRegisterationTest - Clicked on MyAccount Link..
+13:35:12.769 [main] INFO  testCases.TC01_AccountRegisterationTest - Clicked on Register Link..
+13:35:12.770 [main] INFO  testCases.TC01_AccountRegisterationTest - Providing customer details.....
+13:35:17.467 [main] INFO  testCases.TC01_AccountRegisterationTest - Validating expected message..
+13:35:17.537 [main] INFO  testCases.TC01_AccountRegisterationTest - **** Finished TC01_AccountRegisterationTest ****
+13:35:29.866 [main] INFO  testCases.TC02_LoginTest - *** Starting TC_002_LoginTest ***
+13:35:34.459 [main] INFO  testCases.TC02_LoginTest - *** Finished TC_02_LoginTest ***
+14:11:37.900 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Administrator\.eclipse\Java Work\OpencartV121\grid-docker.xml"
+14:11:38.178 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Administrator\.eclipse\Java Work\OpencartV121\grid-docker.xml
+
+14:11:45.470 [main] INFO  testCases.TC01_AccountRegisterationTest - **** Starting TC01_AccountRegisterationTest ****
+14:11:45.697 [main] INFO  testCases.TC01_AccountRegisterationTest - Clicked on MyAccount Link..
+14:11:46.549 [main] INFO  testCases.TC01_AccountRegisterationTest - Clicked on Register Link..
+14:11:46.551 [main] INFO  testCases.TC01_AccountRegisterationTest - Providing customer details.....
+14:11:50.168 [main] INFO  testCases.TC01_AccountRegisterationTest - Validating expected message..
+14:11:50.227 [main] INFO  testCases.TC01_AccountRegisterationTest - **** Finished TC01_AccountRegisterationTest ****
+14:11:53.831 [main] INFO  testCases.TC02_LoginTest - *** Starting TC_002_LoginTest ***
+14:11:57.432 [main] INFO  testCases.TC02_LoginTest - *** Finished TC_02_LoginTest ***
+14:12:08.639 [main] INFO  testCases.TC01_AccountRegisterationTest - **** Starting TC01_AccountRegisterationTest ****
+14:12:08.952 [main] INFO  testCases.TC01_AccountRegisterationTest - Clicked on MyAccount Link..
+14:12:10.578 [main] INFO  testCases.TC01_AccountRegisterationTest - Clicked on Register Link..
+14:12:10.580 [main] INFO  testCases.TC01_AccountRegisterationTest - Providing customer details.....
+14:12:14.004 [main] INFO  testCases.TC01_AccountRegisterationTest - Validating expected message..
+14:12:14.065 [main] INFO  testCases.TC01_AccountRegisterationTest - **** Finished TC01_AccountRegisterationTest ****
+14:12:21.542 [main] INFO  testCases.TC02_LoginTest - *** Starting TC_002_LoginTest ***
+14:12:25.288 [main] INFO  testCases.TC02_LoginTest - *** Finished TC_02_LoginTest ***
+17:05:02.899 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Administrator\.eclipse\Java Work\OpencartV121\master.xml"
+17:12:39.907 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Administrator\.eclipse\Java Work\OpencartV121\master.xml"
+17:12:51.591 [main] INFO  testCases.TC01_AccountRegisterationTest - **** Starting TC01_AccountRegisterationTest ****
+17:12:51.803 [main] INFO  testCases.TC01_AccountRegisterationTest - Clicked on MyAccount Link..
+17:12:53.018 [main] INFO  testCases.TC01_AccountRegisterationTest - Clicked on Register Link..
+17:12:53.056 [main] INFO  testCases.TC01_AccountRegisterationTest - Providing customer details.....
+17:12:57.119 [main] INFO  testCases.TC01_AccountRegisterationTest - Validating expected message..
+17:12:57.206 [main] INFO  testCases.TC01_AccountRegisterationTest - **** Finished TC01_AccountRegisterationTest ****
+17:13:02.122 [main] INFO  testCases.TC02_LoginTest - *** Starting TC_002_LoginTest ***
+17:13:06.347 [main] INFO  testCases.TC02_LoginTest - *** Finished TC_02_LoginTest ***
+17:17:53.457 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Administrator\.eclipse\Java Work\OpencartV121\master.xml"
+17:18:00.390 [main] INFO  testCases.TC01_AccountRegisterationTest - **** Starting TC01_AccountRegisterationTest ****
+17:18:00.660 [main] INFO  testCases.TC01_AccountRegisterationTest - Clicked on MyAccount Link..
+17:18:01.626 [main] INFO  testCases.TC01_AccountRegisterationTest - Clicked on Register Link..
+17:18:01.643 [main] INFO  testCases.TC01_AccountRegisterationTest - Providing customer details.....
+17:18:05.604 [main] INFO  testCases.TC01_AccountRegisterationTest - Validating expected message..
+17:18:05.656 [main] INFO  testCases.TC01_AccountRegisterationTest - **** Finished TC01_AccountRegisterationTest ****
+17:18:10.061 [main] INFO  testCases.TC02_LoginTest - *** Starting TC_002_LoginTest ***
+17:18:13.499 [main] INFO  testCases.TC02_LoginTest - *** Finished TC_02_LoginTest ***
+19:45:49.149 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Administrator\.eclipse\Java Work\OpencartV121\master.xml"
+19:45:59.426 [main] INFO  testCases.TC01_AccountRegisterationTest - **** Starting TC01_AccountRegisterationTest ****
+19:45:59.645 [main] INFO  testCases.TC01_AccountRegisterationTest - Clicked on MyAccount Link..
+19:46:00.794 [main] INFO  testCases.TC01_AccountRegisterationTest - Clicked on Register Link..
+19:46:00.802 [main] INFO  testCases.TC01_AccountRegisterationTest - Providing customer details.....
+19:46:05.375 [main] INFO  testCases.TC01_AccountRegisterationTest - Validating expected message..
+19:46:05.452 [main] INFO  testCases.TC01_AccountRegisterationTest - **** Finished TC01_AccountRegisterationTest ****
+19:46:10.125 [main] INFO  testCases.TC02_LoginTest - *** Starting TC_002_LoginTest ***
+19:46:14.449 [main] INFO  testCases.TC02_LoginTest - *** Finished TC_02_LoginTest ***
+19:52:21.489 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Administrator\.eclipse\Java Work\OpencartV121\master.xml"
+19:52:29.238 [main] INFO  testCases.TC01_AccountRegisterationTest - **** Starting TC01_AccountRegisterationTest ****
+19:52:29.465 [main] INFO  testCases.TC01_AccountRegisterationTest - Clicked on MyAccount Link..
+19:52:30.602 [main] INFO  testCases.TC01_AccountRegisterationTest - Clicked on Register Link..
+19:52:30.613 [main] INFO  testCases.TC01_AccountRegisterationTest - Providing customer details.....
+19:52:34.748 [main] INFO  testCases.TC01_AccountRegisterationTest - Validating expected message..
+19:52:34.817 [main] INFO  testCases.TC01_AccountRegisterationTest - **** Finished TC01_AccountRegisterationTest ****
+19:52:39.521 [main] INFO  testCases.TC02_LoginTest - *** Starting TC_002_LoginTest ***
+19:52:44.238 [main] INFO  testCases.TC02_LoginTest - *** Finished TC_02_LoginTest ***

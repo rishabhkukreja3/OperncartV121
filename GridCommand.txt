@@ -1,0 +1,9 @@
+java -jar selenium-server-4.52.0.jar standalone
+
+Run the above command where Selenium-server is downloaded in my case c->User->Administrator
+
+Then open the command prompt and type this commmand
+
+At last I will get the url of selenium, paste the URL in the browser
+
+Selenium grid will open where the test actions will take place.
